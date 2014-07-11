@@ -1,6 +1,8 @@
 About MOS
 
-    MOS makes it easy to create animated GIFs from video files using [ffmpeg](http://ffmpeg.org/). MOS gets its name from film jargon, where it is used to indicate a [film segment without sound](https://en.wikipedia.org/wiki/MOS_(film)).
+    MOS makes it easy to create animated GIFs from video files using
+    ffmpeg (see http://ffmpeg.org/). MOS gets its name from film jargon, where it is used
+    to indicate a film segment without sound (see https://en.wikipedia.org/wiki/MOS_(film)).
 
 
     Usage: mos [OPTIONS] INFILE [OUTFILE]
