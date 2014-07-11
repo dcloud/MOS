@@ -7,8 +7,9 @@ setup(
     version=mos.__version__,
     packages=find_packages(),
     license=mos.__license__,
-    long_description=open('README.markdown').read(),
+    long_description=open('README').read(),
     author='Daniel Cloud',
+    author_email='daniel+mos@danielcloud.org',
     url='https://github.com/dcloud/MOS',
     include_package_data=True,
     install_requires=[
